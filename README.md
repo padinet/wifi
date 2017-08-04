@@ -20,7 +20,7 @@ Guest is defined as someone who seats at the table and have an active order.
 Admin feature:
 - Intrusive daily usage report through email
 - Admin control panel to monitor usage patterns and historical data
-- Usage pattern report can help detect whether staffs are using the guest wifi excessively
+- Usage pattern enable detection of excessive usage
 
 ## Where to go from here?
 
